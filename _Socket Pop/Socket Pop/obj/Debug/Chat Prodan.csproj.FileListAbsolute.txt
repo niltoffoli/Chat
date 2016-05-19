@@ -1,0 +1,65 @@
+D:\Nerd\Documents\Visual Studio 2012\Projects\Socket Pop\Socket Pop\bin\Debug\Chat Prodan.exe.config
+D:\Nerd\Documents\Visual Studio 2012\Projects\Socket Pop\Socket Pop\obj\Debug\Chat Prodan.exe
+D:\Nerd\Documents\Visual Studio 2012\Projects\Socket Pop\Socket Pop\obj\Debug\Chat Prodan.pdb
+D:\Nerd\Documents\Visual Studio 2012\Projects\Socket Pop\Socket Pop\bin\Debug\Chat Prodan.exe
+D:\Nerd\Documents\Visual Studio 2012\Projects\Socket Pop\Socket Pop\bin\Debug\Chat Prodan.pdb
+D:\Nerd\Documents\Visual Studio 2012\Projects\Socket Pop\Socket Pop\obj\Debug\ChatProdan.FrmConfig.resources
+D:\Nerd\Documents\Visual Studio 2012\Projects\Socket Pop\Socket Pop\obj\Debug\ChatProdan.FrmChat.resources
+D:\Nerd\Documents\Visual Studio 2012\Projects\Socket Pop\Socket Pop\obj\Debug\ChatProdan.FrmPrivado.resources
+D:\Nerd\Documents\Visual Studio 2012\Projects\Socket Pop\Socket Pop\obj\Debug\ChatProdan.Properties.Resources.resources
+D:\Nerd\Documents\Visual Studio 2012\Projects\Socket Pop\Socket Pop\obj\Debug\Chat Prodan.csproj.GenerateResource.Cache
+D:\Nerd\Documents\Visual Studio 2012\Projects\Socket Pop\Socket Pop\obj\Debug\ChatProdan.FrmHistorico.resources
+D:\Nerd\Documents\Visual Studio 2012\Projects\Socket Pop\Socket Pop\obj\Debug\ChatProdan.FrmUsuario.resources
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\Socket Pop\Socket Pop\bin\Debug\Chat Prodan.exe.config
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\Socket Pop\Socket Pop\bin\Debug\Chat Prodan.exe
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\Socket Pop\Socket Pop\bin\Debug\Chat Prodan.pdb
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\Socket Pop\Socket Pop\obj\Debug\ChatProdan.FrmConfig.resources
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\Socket Pop\Socket Pop\obj\Debug\ChatProdan.FrmChat.resources
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\Socket Pop\Socket Pop\obj\Debug\ChatProdan.FrmHistorico.resources
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\Socket Pop\Socket Pop\obj\Debug\ChatProdan.FrmPrivado.resources
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\Socket Pop\Socket Pop\obj\Debug\ChatProdan.FrmUsuario.resources
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\Socket Pop\Socket Pop\obj\Debug\ChatProdan.Properties.Resources.resources
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\Socket Pop\Socket Pop\obj\Debug\Chat Prodan.csproj.GenerateResource.Cache
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\Socket Pop\Socket Pop\obj\Debug\Chat Prodan.exe
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\Socket Pop\Socket Pop\obj\Debug\Chat Prodan.pdb
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\Socket Pop\Socket Pop\obj\Debug\Chat Prodan.csprojResolveAssemblyReference.cache
+D:\Nerd\Documents\Visual Studio 2012\Projects\Socket Pop\Socket Pop\obj\Debug\Chat Prodan.csprojResolveAssemblyReference.cache
+C:\Users\caio\Desktop\Nova pasta\Socket Pop\Socket Pop\bin\Debug\Chat Prodan.exe.config
+C:\Users\caio\Desktop\Nova pasta\Socket Pop\Socket Pop\obj\Debug\Chat Prodan.exe
+C:\Users\caio\Desktop\Nova pasta\Socket Pop\Socket Pop\obj\Debug\Chat Prodan.pdb
+C:\Users\caio\Desktop\Nova pasta\Socket Pop\Socket Pop\bin\Debug\Chat Prodan.exe
+C:\Users\caio\Desktop\Nova pasta\Socket Pop\Socket Pop\bin\Debug\Chat Prodan.pdb
+C:\Users\caio\Desktop\Nova pasta\Socket Pop\Socket Pop\obj\Debug\Chat Prodan.csprojResolveAssemblyReference.cache
+C:\Users\caio\Desktop\Nova pasta\Socket Pop\Socket Pop\obj\Debug\ChatProdan.FrmConfig.resources
+C:\Users\caio\Desktop\Nova pasta\Socket Pop\Socket Pop\obj\Debug\ChatProdan.FrmChat.resources
+C:\Users\caio\Desktop\Nova pasta\Socket Pop\Socket Pop\obj\Debug\ChatProdan.FrmHistorico.resources
+C:\Users\caio\Desktop\Nova pasta\Socket Pop\Socket Pop\obj\Debug\ChatProdan.FrmPrivado.resources
+C:\Users\caio\Desktop\Nova pasta\Socket Pop\Socket Pop\obj\Debug\ChatProdan.FrmUsuario.resources
+C:\Users\caio\Desktop\Nova pasta\Socket Pop\Socket Pop\obj\Debug\ChatProdan.Properties.Resources.resources
+C:\Users\caio\Desktop\Nova pasta\Socket Pop\Socket Pop\obj\Debug\Chat Prodan.csproj.GenerateResource.Cache
+C:\Users\caio\Desktop\Nova pasta\_Socket Pop\Socket Pop\bin\Debug\Chat Prodan.exe.config
+C:\Users\caio\Desktop\Nova pasta\_Socket Pop\Socket Pop\obj\Debug\Chat Prodan.exe
+C:\Users\caio\Desktop\Nova pasta\_Socket Pop\Socket Pop\obj\Debug\Chat Prodan.pdb
+C:\Users\caio\Desktop\Nova pasta\_Socket Pop\Socket Pop\bin\Debug\Chat Prodan.exe
+C:\Users\caio\Desktop\Nova pasta\_Socket Pop\Socket Pop\bin\Debug\Chat Prodan.pdb
+C:\Users\caio\Desktop\Nova pasta\_Socket Pop\Socket Pop\obj\Debug\Chat Prodan.csprojResolveAssemblyReference.cache
+C:\Users\caio\Desktop\Nova pasta\_Socket Pop\Socket Pop\obj\Debug\ChatProdan.FrmConfig.resources
+C:\Users\caio\Desktop\Nova pasta\_Socket Pop\Socket Pop\obj\Debug\ChatProdan.FrmChat.resources
+C:\Users\caio\Desktop\Nova pasta\_Socket Pop\Socket Pop\obj\Debug\ChatProdan.FrmHistorico.resources
+C:\Users\caio\Desktop\Nova pasta\_Socket Pop\Socket Pop\obj\Debug\ChatProdan.FrmPrivado.resources
+C:\Users\caio\Desktop\Nova pasta\_Socket Pop\Socket Pop\obj\Debug\ChatProdan.FrmUsuario.resources
+C:\Users\caio\Desktop\Nova pasta\_Socket Pop\Socket Pop\obj\Debug\ChatProdan.Properties.Resources.resources
+C:\Users\caio\Desktop\Nova pasta\_Socket Pop\Socket Pop\obj\Debug\Chat Prodan.csproj.GenerateResource.Cache
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\_Socket Pop\Socket Pop\bin\Debug\Chat Prodan.exe.config
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\_Socket Pop\Socket Pop\bin\Debug\Chat Prodan.exe
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\_Socket Pop\Socket Pop\bin\Debug\Chat Prodan.pdb
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\_Socket Pop\Socket Pop\obj\Debug\ChatProdan.FrmConfig.resources
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\_Socket Pop\Socket Pop\obj\Debug\ChatProdan.FrmChat.resources
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\_Socket Pop\Socket Pop\obj\Debug\ChatProdan.FrmHistorico.resources
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\_Socket Pop\Socket Pop\obj\Debug\ChatProdan.FrmPrivado.resources
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\_Socket Pop\Socket Pop\obj\Debug\ChatProdan.FrmUsuario.resources
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\_Socket Pop\Socket Pop\obj\Debug\ChatProdan.Properties.Resources.resources
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\_Socket Pop\Socket Pop\obj\Debug\Chat Prodan.csproj.GenerateResource.Cache
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\_Socket Pop\Socket Pop\obj\Debug\Chat Prodan.exe
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\_Socket Pop\Socket Pop\obj\Debug\Chat Prodan.pdb
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\_Socket Pop\Socket Pop\obj\Debug\Chat Prodan.csprojResolveAssemblyReference.cache

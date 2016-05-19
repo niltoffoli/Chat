@@ -1,0 +1,18 @@
+D:\Nerd\Documents\Visual Studio 2012\Projects\Socket Pop\Socket Pop\obj\Debug\Socket Pop.exe
+D:\Nerd\Documents\Visual Studio 2012\Projects\Socket Pop\Socket Pop\obj\Debug\Socket Pop.pdb
+D:\Nerd\Documents\Visual Studio 2012\Projects\Socket Pop\Socket Pop\bin\Debug\Socket Pop.exe
+D:\Nerd\Documents\Visual Studio 2012\Projects\Socket Pop\Socket Pop\bin\Debug\Socket Pop.pdb
+D:\Nerd\Documents\Visual Studio 2012\Projects\Socket Pop\Socket Pop\obj\Debug\Socket_Pop.FrmChat.resources
+D:\Nerd\Documents\Visual Studio 2012\Projects\Socket Pop\Socket Pop\obj\Debug\Socket_Pop.frmPrivado.resources
+D:\Nerd\Documents\Visual Studio 2012\Projects\Socket Pop\Socket Pop\obj\Debug\Socket_Pop.Properties.Resources.resources
+D:\Nerd\Documents\Visual Studio 2012\Projects\Socket Pop\Socket Pop\obj\Debug\Socket Pop.csproj.GenerateResource.Cache
+D:\Nerd\Documents\Visual Studio 2012\Projects\Socket Pop\Socket Pop\obj\Debug\Socket Pop.csprojResolveAssemblyReference.cache
+C:\Users\Nerd\documents\visual studio 2012\Projects\Socket Pop\Socket Pop\bin\Debug\Socket Pop.exe
+C:\Users\Nerd\documents\visual studio 2012\Projects\Socket Pop\Socket Pop\bin\Debug\Socket Pop.pdb
+C:\Users\Nerd\documents\visual studio 2012\Projects\Socket Pop\Socket Pop\obj\Debug\Socket Pop.csprojResolveAssemblyReference.cache
+C:\Users\Nerd\documents\visual studio 2012\Projects\Socket Pop\Socket Pop\obj\Debug\Socket_Pop.FrmChat.resources
+C:\Users\Nerd\documents\visual studio 2012\Projects\Socket Pop\Socket Pop\obj\Debug\Socket_Pop.FrmPrivado.resources
+C:\Users\Nerd\documents\visual studio 2012\Projects\Socket Pop\Socket Pop\obj\Debug\Socket_Pop.Properties.Resources.resources
+C:\Users\Nerd\documents\visual studio 2012\Projects\Socket Pop\Socket Pop\obj\Debug\Socket Pop.csproj.GenerateResource.Cache
+C:\Users\Nerd\documents\visual studio 2012\Projects\Socket Pop\Socket Pop\obj\Debug\Socket Pop.exe
+C:\Users\Nerd\documents\visual studio 2012\Projects\Socket Pop\Socket Pop\obj\Debug\Socket Pop.pdb
